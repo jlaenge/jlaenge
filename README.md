@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Jakob. I have a MSc. in Computer Science and have worked for 5+ years as a software developer.
 
-### I've worked in...
+### 🔭 I've worked in...
 
 Research, web development and embedded. Using primarily C/C++, Java and Python.
 
