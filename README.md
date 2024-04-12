@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jakob. I have a MSc. in Computer Science and have worked for 5+ years as a software developer.
+
+### I've worked in...
+
+Research, web development and embedded. Using primarily C/C++, Java and Python.
+
+### 🌱 I’m currently learning...
+
+About compilers/interpreters an machine learning.
+
 <!--
 **jlaenge/jlaenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
