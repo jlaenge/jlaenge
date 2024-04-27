@@ -8,7 +8,7 @@ Research, web development and embedded. Using primarily C/C++, Java and Python.
 
 ### 🌱 I’m currently learning...
 
-About compilers/interpreters an machine learning.
+About compilers/interpreters and machine learning.
 
 <!--
 **jlaenge/jlaenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
